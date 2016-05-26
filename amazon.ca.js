@@ -5,7 +5,7 @@
  * you can view your orders (should look something like:
  * https://www.amazon.ca/gp/your-account/order-history?...), open the developer console,
  * (you should use Chrome or Firefox for this) and copy paste the script directly into the console. 
- * You should then see the sum of all the order prices of the page as a console output.
+ * Run it. You should then see the sum of all the order prices of the page as a console output.
  */
 
 prices = document.getElementsByClassName('a-color-secondary value')

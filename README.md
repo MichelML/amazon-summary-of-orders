@@ -5,4 +5,4 @@ Choose the script applicable to the site you will visit (.ca or .com). Go on ama
  ```
  https://www.amazon.ca/gp/your-account/order-history?...
  ```
-Then open the developer console (you should use Chrome or Firefox for this), and copy paste the script directly into the console.  You should then see the sum of all the order prices of the page as a console output.
+Then open the developer console (you should use Chrome or Firefox for this), and copy paste the script directly into the console. Run it. You should then see the sum of all the order prices of the page as a console output.
