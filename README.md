@@ -1,7 +1,7 @@
 These scripts allow you to get the sum in dollars of all the orders you've made (per one page of orders) on either amazon.ca or amazon.com.
 
 ## How to use it
-Choose the script applicable to the site you will visit (.ca or .com). Go on amazon.ca/com and make sure the site is in english. Then go on the page where you can view your orders. It should look something like: 
+Choose the script applicable to the site you will visit (.ca or .com). Go on amazon.ca or amazon.com and make sure the site is in english. Then go on the page where you can view your orders. It should look something like: 
  ```
  https://www.amazon.ca/gp/your-account/order-history?...
  ```
